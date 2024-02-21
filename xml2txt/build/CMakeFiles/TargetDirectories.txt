@@ -1,0 +1,3 @@
+H:/Facevisa_dtylongjumpbottomdetector/xml2txt/build/CMakeFiles/Oriented_RCNN_xml2txt.dir
+H:/Facevisa_dtylongjumpbottomdetector/xml2txt/build/CMakeFiles/ALL_BUILD.dir
+H:/Facevisa_dtylongjumpbottomdetector/xml2txt/build/CMakeFiles/ZERO_CHECK.dir

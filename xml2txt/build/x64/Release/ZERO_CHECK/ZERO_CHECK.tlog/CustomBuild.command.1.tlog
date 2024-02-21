@@ -1,0 +1,10 @@
+^H:\FACEVISA_DTYLONGJUMPBOTTOMDETECTOR\XML2TXT\BUILD\CMAKEFILES\DD373147945217B11C34A08F12A5F29D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SH:/Facevisa_dtylongjumpbottomdetector/xml2txt -BH:/Facevisa_dtylongjumpbottomdetector/xml2txt/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file H:/Facevisa_dtylongjumpbottomdetector/xml2txt/build/Oriented_RCNN_xml2txt.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

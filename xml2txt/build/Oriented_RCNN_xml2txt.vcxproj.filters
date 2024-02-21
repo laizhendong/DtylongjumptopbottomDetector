@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\src\Cascade_util.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\src\GetXmlBoxes.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\tinyxml\tinystr.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\tinyxml\tinyxml.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\tinyxml\tinyxmlerror.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\tinyxml\tinyxmlparser.cpp">
+      <Filter>tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\zupply\zupply.cpp">
+      <Filter>zupply</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\inc\Cascade_util.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\inc\GetXmlBoxes.h">
+      <Filter>inc</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\tinyxml\tinystr.h">
+      <Filter>tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\tinyxml\tinyxml.h">
+      <Filter>tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\zupply\zupply.hpp">
+      <Filter>zupply</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="H:\Facevisa_dtylongjumpbottomdetector\xml2txt\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="inc">
+      <UniqueIdentifier>{BBA707FC-7DA6-334D-95C0-5E3C5B25DF25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{402857B7-2965-3CAA-8590-27C2A7CEE23C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tinyxml">
+      <UniqueIdentifier>{2EDA0CD9-707C-3200-BEE9-F001F5493FB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="zupply">
+      <UniqueIdentifier>{757F9490-74DE-3B5A-AFDC-C7B6C0854C82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
