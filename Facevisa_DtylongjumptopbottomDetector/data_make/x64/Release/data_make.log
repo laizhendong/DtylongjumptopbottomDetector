@@ -1,0 +1,76 @@
+﻿  data_make.cpp
+H:\Facevisa_dtylongjumpbottomdetector\project\tools\Cascade_util.h(60,20): warning C4305: “初始化”: 从“double”到“float”截断
+H:\Facevisa_dtylongjumpbottomdetector\project\tools\Cascade_util.h(62,20): warning C4305: “初始化”: 从“double”到“float”截断
+H:\Facevisa_dtylongjumpbottomdetector\project\tools\Cascade_util.h(65,20): warning C4305: “初始化”: 从“double”到“float”截断
+H:\Facevisa_dtylongjumpbottomdetector\project\tools\Cascade_util.h(66,21): warning C4305: “初始化”: 从“double”到“float”截断
+H:\Facevisa_dtylongjumpbottomdetector\project\tools\Cascade_util.h(67,21): warning C4305: “初始化”: 从“double”到“float”截断
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(34,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(40,31): warning C4267: “/=”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(41,31): warning C4267: “/=”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(44,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(54,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(58,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(64,34): warning C4267: “/=”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(65,34): warning C4267: “/=”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(68,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(77,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(319,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(341,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(367,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(401,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(454,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(516,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(528,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(536,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(640,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(641,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(657,69): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(658,69): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(842,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(842,12): message : 请考虑在格式字符串中使用“%zd”
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(927,15): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(928,15): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(929,15): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(930,15): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(980,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(981,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(982,20): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+H:\Facevisa_dtylongjumpbottomdetector\project\src\data_make.cpp(983,21): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  正在生成代码
+  1 of 1157 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  data_make.vcxproj -> H:\Facevisa_dtylongjumpbottomdetector\project\Facevisa_DtylongjumptopbottomDetector\x64\Release\data_make3.exe

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Facevisa_DtylongjumptopbottomDetector", "Facevisa_DtylongjumptopbottomDetector\Facevisa_DtylongjumptopbottomDetector.vcxproj", "{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_sdk", "test_sdk\test_sdk.vcxproj", "{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A} = {E555ACA0-4B31-4722-A8EC-BF313CF49C2A}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "data_make", "data_make\data_make.vcxproj", "{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Debug|x64.ActiveCfg = Debug|x64
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Debug|x64.Build.0 = Debug|x64
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Debug|x86.Build.0 = Debug|Win32
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Release|x64.ActiveCfg = Release|x64
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Release|x64.Build.0 = Release|x64
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Release|x86.ActiveCfg = Release|Win32
+		{E555ACA0-4B31-4722-A8EC-BF313CF49C2A}.Release|x86.Build.0 = Release|Win32
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Debug|x64.ActiveCfg = Debug|x64
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Debug|x64.Build.0 = Debug|x64
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Debug|x86.ActiveCfg = Debug|Win32
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Debug|x86.Build.0 = Debug|Win32
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Release|x64.ActiveCfg = Release|x64
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Release|x64.Build.0 = Release|x64
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Release|x86.ActiveCfg = Release|Win32
+		{09CCE8E5-86CD-4B2D-A30C-5203D8F02604}.Release|x86.Build.0 = Release|Win32
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Debug|x64.ActiveCfg = Debug|x64
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Debug|x64.Build.0 = Debug|x64
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Debug|x86.Build.0 = Debug|Win32
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Release|x64.ActiveCfg = Release|x64
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Release|x64.Build.0 = Release|x64
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Release|x86.ActiveCfg = Release|Win32
+		{AE61C2CC-B87F-4474-9C7B-F7949B6FCD8F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
